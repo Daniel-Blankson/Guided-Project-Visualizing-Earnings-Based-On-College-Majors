@@ -1,0 +1,2 @@
+# Guided-Project-Visualizing-Earnings-Based-On-College-Majors
+This is a guided project from Datquest, with the objective to practice using matplotlib and pyplot, quickly creating visualisations to explore data. The data set used is based on the job outcomes of students who graduated from college between 2010 and 2012. The original aggregated data was released by American Community Survey, cleaned by FiveThirtyEight and released on their Github repository
